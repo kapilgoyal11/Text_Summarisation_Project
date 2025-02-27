@@ -27,7 +27,6 @@ You can read the text of your long article in 4 ways :-
 - NLTK Module
 - PyPdf2
 - Beautiful Soup (bs4)
-- urllib (already available with python itself, no need for external installation)
 
 
 ## How to install Requirements :-
