@@ -97,7 +97,7 @@ def score_sentences(tf_idf_matrix):
 
 # Function to compute summary
 def create_summary(sentences, sentence_scores, threshold):
-    return " ".join([sent.text for sent in sentences if sentence_scores.get(sent.text, 0) >= threshold])4
+    return " ".join([sent.text for sent in sentences if sentence_scores.get(sent.text, 0) >= threshold])
 
 # Generate frequency and TF-IDF matrices
 freq_matrix = frequency_matrix(sentences)
