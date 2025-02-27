@@ -78,7 +78,7 @@ pip3 install beautifulsoup4`
 
 - Download or clone repository.
 
-- Open cmd or terminal in same directory where **Text-Summarizer.py** file is stored and then run it by followng command :- 
+- Open cmd or terminal in same directory where **Text-Summarisation.py** file is stored and then run it by followng command :- 
 ```
 python3 Text-Summarizer.py
 ```
