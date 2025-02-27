@@ -4,7 +4,7 @@ Using Spacy and NLTK module with TF-IDF algorithm for text-summarisation. This c
 
 ## Purpose :- 
 
-To save time while reading by summarizing a large article or text into fewer lines. 
+To save time while reading by summarising a large article or text into fewer lines. 
 
 
 ## Description :-
